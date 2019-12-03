@@ -1,5 +1,6 @@
 # JAVA-Lottery-roject
 PLB for Java Intro Class
+
 Requirement:
 
 Develop an application that would allow the user to play a lottery game.
